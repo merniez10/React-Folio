@@ -1,4 +1,4 @@
-## React-Portfolio
+# React-Portfolio
 ## Description
 Initial development of my portfolio using a react front-end
 
